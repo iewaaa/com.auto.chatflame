@@ -3,23 +3,23 @@ auto.waitFor();
 sleep(5000);
 device.wakeUpIfNeeded();
 
-friendNames = ["临观潮", "秀", "GSH", "0luo"];
+var friendNames = ["测试名称1", "测试名称2"];
 
 function unlockScreen() {
   sleep(1000);
   swipe(device.width / 2, device.height - 100, device.width / 2, device.height / 2, 500);
   sleep(1000);
-  click(262, 1136);
+  click(null, null);
   sleep(200);
-  click(262, 1400);
+  click(null, null);
   sleep(200);
-  click(262, 1665);
+  click(null, null);
   sleep(200);
-  click(540, 1665);
+  click(null, null);
   sleep(200);
-  click(802, 1665);
+  click(null, null);
   sleep(200);
-  click(802, 1400);
+  click(null, null);
   sleep(2000);
   openApp();
 }

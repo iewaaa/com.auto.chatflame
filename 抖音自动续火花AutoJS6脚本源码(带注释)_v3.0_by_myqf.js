@@ -72,6 +72,7 @@ function sendMessage() {
   sleep(1000);
   //点击发送的按钮，会自动找发送按钮的位置，无需定位
   var button = desc('发送').findOne();
+  //点击按钮中心点
   click(button.bounds().centerX(), button.bounds().centerY());
   sleep(1000);
   back();
@@ -82,7 +83,7 @@ function killapp() {
   recents();
   sleep(1000);
   //通过上滑的方式清除应用后台，手机分辨率大，可能导致上滑距离不足，可以自己试着修改一下数值，增加滑动距离
-  //解读一下下面这句代码意思就是：从（设备的宽度/2，设备的高度/2在向下移动400像素）滑到（设备的宽度/2，设备高度/2在向上移动400像素），移动200ms
+  //解读一下下面这句代码意思就是：从（设备的宽度/2，设备的高度/2在向下400像素）滑到（设备的宽度/2，设备高度/2在向上400像素），移动时间200毫秒
   swipe(device.width / 2, device.height / 2 + 400, device.width / 2, device.height / 2 - 400, 200);
   sleep(1000);
   //返回桌面

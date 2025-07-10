@@ -1,7 +1,7 @@
 # AutoJS6抖音自动续火花
 readme文档编写时间：2025年7月3日23点31分
 #### 介绍
-抖音自动续火花AutoJS6脚本源码_v2.0_by_myqf/ewaaa
+抖音自动续火花AutoJS6脚本源码_v3.0_by_myqf/ewaaa
 
 **有任何问题欢迎来作者bilibili留言，随时关注：[LuckyLK-的个人空间-LuckyLK-个人主页-哔哩哔哩视频](https://space.bilibili.com/515953193?spm_id_from=333.1007.0.0)**
 

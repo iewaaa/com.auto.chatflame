@@ -5,15 +5,20 @@ readme文档编写时间：2025年7月3日23点31分
 
 **有任何问题欢迎来作者bilibili留言，随时关注：[LuckyLK-的个人空间-LuckyLK-个人主页-哔哩哔哩视频](https://space.bilibili.com/515953193?spm_id_from=333.1007.0.0)**
 
+**详细的使用教程**：[自研抖音续火花脚本手把手安装教程来啦！](https://www.bilibili.com/video/BV1QMGpzbEKV/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f02d2b99108a7c1dbc000e0758bc5275)
+
 #### 软件架构：
 软件架构说明
+
 AutoJS6
+
 JavaScript
 
 #### 使用说明：
 
 1.  安装AutoJS6  https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2FSuperMonster003%2FAutoJs6%2Freleases
-2.  按照autojs官方指定的步骤，设置对应权限
+2.  设置autojs权限，下图圈出了该脚本所需的权限
+![输入图片说明](mdPicture\H@G4A486C_08BRMUOVPP.png)
 3.  克隆脚本到你的autojs下
 4.  填写需要填写的内容，例如好友昵称，锁屏密码
 5.  运行脚本

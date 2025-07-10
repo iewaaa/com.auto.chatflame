@@ -3,7 +3,7 @@ auto.waitFor();
 //在打开抖音前，设置媒体音量为0，需要修改系统设置权限，如果没打开会自动跳转到设置界面
 device.setMusicVolume(0);
 //发送系统消息提示，需要开启发布通知权限，如果没有打开会自动跳转到设置界面
-var d = new Date()
+var d = new Date();
 notice(`开始执行抖音续火花`, `当前时间:${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日 ${d.getHours()}:${d.getMinutes()}:${d.getSeconds()}`);
 //记录开始时间，用于统计运行时间
 let startTime = new Date().getTime();

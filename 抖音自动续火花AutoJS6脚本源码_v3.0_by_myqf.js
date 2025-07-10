@@ -1,6 +1,6 @@
 auto.waitFor();
 device.setMusicVolume(0);
-var d = new Date()
+var d = new Date();
 notice(`开始执行抖音续火花`, `当前时间:${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日 ${d.getHours()}:${d.getMinutes()}:${d.getSeconds()}`);
 
 let startTime = new Date().getTime();

@@ -12,7 +12,7 @@ var password = [1, 2, 3, 4, 5, 6];
 
 function unlockScreen() {
   sleep(1000);
-  swipe(device.width / 2, device.height, device.width / 2, device.height / 2, 500);
+  swipe(device.width / 2, device.height - 100, device.width / 2, device.height / 2, 500);
   sleep(1000);
   for (let i = 0; i < password.length; i++) {
     let p = password[i].toString();

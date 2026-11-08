@@ -1,4 +1,4 @@
-# 抖音自动续火花（AutoJS6）
+<img width="620" height="1238" alt="002" src="https://github.com/user-attachments/assets/29c1bfdd-1578-4cc5-b69d-945f1e4be4a1" /># 抖音自动续火花（AutoJS6）
 
 > **⚠️ 免责声明**
 >
@@ -111,13 +111,15 @@
    - 如果脚本位于只读的「示例」目录，长按脚本 →「复制到」→ 选择 `内部存储/脚本/` 下的目录后再编辑。
 4. 按截图开启所需权限（不同品牌手机菜单名称略有差异）：
 
-   ![AutoJS6 需要开启的权限](mdPicture/001.png)
+   ![AutoJS6 需要开启的权限](mdPicture/001.png)<img width="363" height="1220" alt="001" src="https://github.com/user-attachments/assets/48b43757-98fb-45dc-8694-9a92956471ca" />
+
 
    至少开启：**无障碍服务、前台服务、发布通知权限、忽略电池优化、显示在其他应用上层、修改系统设置**。部分机型还需要：自启动、后台弹窗、锁定后台、电池不优化。
 
 5. 打开 `main_v2.7_official.js`，修改开头的 `friendNames` 和 `password`：
 
-   ![修改好友名单和锁屏密码](mdPicture/002.png)
+   ![修改好友名单和锁屏密码](mdPicture/002.png)<img width="620" height="1238" alt="002" src="https://github.com/user-attachments/assets/b63ded9a-6d57-4012-a02a-a6e3d649c4cb" />
+
 
    - `friendNames`：填写抖音消息列表中显示的名字，**填写备注名也可以**；
    - `password`：锁屏密码，几位就写几位，例如 4 位密码写 `[1, 2, 3, 4]`；
@@ -126,7 +128,8 @@
 6. 保存脚本，先手动运行一次，确认能正常解锁、进入消息页并发送成功，观察 AutoJS6 控制台日志。
 7. 设置定时任务：在 AutoJS6 文件列表中长按脚本 →「定时任务」→ 设置每天执行时间（建议选一个手机闲置、已充电的时间段）。
 
-   ![长按脚本创建定时任务](mdPicture/003.png)
+   ![长按脚本创建定时任务](mdPicture/003.png)<img width="616" height="1261" alt="003" src="https://github.com/user-attachments/assets/d8ad7605-3629-4403-9963-aed27430822a" />
+
 
 8. 建议插着充电器运行，并保持网络连接；运行期间不要操作手机。
 

@@ -1,4 +1,4 @@
-<img width="620" height="1238" alt="002" src="https://github.com/user-attachments/assets/29c1bfdd-1578-4cc5-b69d-945f1e4be4a1" /># 抖音自动续火花（AutoJS6）
+# 抖音自动续火花（AutoJS6）
 
 > **⚠️ 免责声明**
 >

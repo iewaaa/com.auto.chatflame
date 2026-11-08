@@ -16,7 +16,7 @@ JavaScript
 
 1.  安装AutoJS6  https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2FSuperMonster003%2FAutoJs6%2Freleases
 2.  设置autojs权限，下图圈出了该脚本所需的权限
-![输入图片说明](mdPicture/H@G4A486C_08BRMUOVPP.png)
+![输入图片说明](mdPicture/001.png)
 3.  克隆脚本到你的autojs下
 4.  填写需要填写的内容，例如好友昵称，锁屏密码
 5.  运行脚本
